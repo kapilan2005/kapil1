@@ -4,3 +4,23 @@ ok kapilan
 tomorrow is hoilday
 great,enjoy ur holidays 
 lets get going
+<!HTMLDOC html>
+<html>
+      <head>
+            <title>  hai  i am Dharshan </title>
+            hi how are you
+            <h1>welcome to skct</h1>
+            <h2>i am a engineer</h2>
+            <h3>from ece department</h3>
+            <h4>skill developement</h4> 
+            <h5>sb cource</h5>
+            <h6>@ digital library</h6>
+       </head>
+       <body bgcolor="red">
+       <img src="kd.jpg"alt="pointer defanition"height=200 width=400>
+       <a href="www.gmail.com"> gmail</a>
+       my name is dharshan . k 
+   ponninadhi pakanumae thegari raesa kanni paengal kananumae theegari raesamari<br> sekka saevapi nenjil irudi otra sulachi theeya tharu di andha<hr> nalun alaginilae  yae  yae yae yae yae kaalam thearinjadhunu ohhhhhhhhhhh mannae oh mane acham thearinjadhu</P></p>
+       </body>
+       
+</html> 
